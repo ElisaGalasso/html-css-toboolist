@@ -11,3 +11,72 @@
     font-family: Arial, sans-serif;
     font-size: xx-large;
 }
+.container {
+  max-width: 80%;
+  max-width: 600px;
+  padding: 20px;;
+}
+
+header {
+  background-color: white;
+  padding: 10px;
+  border: 10px ;
+}
+
+.app-header {;
+  
+}
+
+body {
+  background-color: rgb(221, 217, 217);
+  margin: 0%;
+  
+}
+
+.app-buttons {
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ebe9e9;
+}
+
+.add-task-button {
+  background-color: #47ADF1;
+  border: none;
+  border-radius: 3px;
+  color: white;
+}
+
+.add-section-button {
+    border: 1px solid rgb(204, 202, 202);
+    border-radius: 3px;
+    color: rgb(204, 202, 202);
+    background-color: white;
+}
+
+.editorial {
+  border: none;
+  border-radius: 8px;
+  background-color: #47ADF1;
+  color: white;
+}
+
+.app-main {
+  padding: 40px 100px;
+  }
+
+  .app-container {
+    background-color: white;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+  }
+
+  .circle-check {
+    font-size: 1em;
+    border: 2px solid green;
+    border-radius: 50%;
+    color: green;
+  }
+
